@@ -35,6 +35,7 @@ entity Add_Sub_sim is
 --  Port ( );
 end Add_Sub_sim;
 
+--this also comment
 architecture Behavioral of Add_Sub_sim is
  component Add_Sub_Unit
     Port ( sel : in STD_LOGIC;
