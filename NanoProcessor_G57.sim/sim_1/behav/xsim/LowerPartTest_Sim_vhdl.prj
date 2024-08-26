@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/Adder_3B.vhd" \
+"../../../../project_2.srcs/sources_1/imports/sources_1/imports/new/D_FF.vhd" \
+"../../../../project_2.srcs/sources_1/new/FA.vhd" \
+"../../../../project_2.srcs/sources_1/new/HA.vhd" \
+"../../../../project_2.srcs/sources_1/new/LowerPartTest.vhd" \
+"../../../../project_2.srcs/sources_1/imports/new/MUX_2_3.vhd" \
+"../../../../project_2.srcs/sources_1/imports/sources_1/new/Programme_Counter.vhd" \
+"../../../../project_2.srcs/sources_1/imports/new/ROM_3_T0_12.vhd" \
+"../../../../project_2.srcs/sim_1/new/LowerPartTest_Sim.vhd" \
+
+# Do not sort compile order
+nosort

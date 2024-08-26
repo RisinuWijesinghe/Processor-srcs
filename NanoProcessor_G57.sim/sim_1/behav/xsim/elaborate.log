@@ -1,0 +1,34 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto 118e935516b0477b9bc3c371774e75e5 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Processor_Sim_behav xil_defaultlib.Processor_Sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.Slow_clk [slow_clk_default]
+Compiling architecture behavioral of entity xil_defaultlib.D_FF [d_ff_default]
+Compiling architecture behavioral of entity xil_defaultlib.Programme_Counter [programme_counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.ROM_3_TO_12 [rom_3_to_12_default]
+Compiling architecture behavioral of entity xil_defaultlib.HA [ha_default]
+Compiling architecture behavioral of entity xil_defaultlib.FA [fa_default]
+Compiling architecture behavioral of entity xil_defaultlib.Adder_3_bit [adder_3_bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_3 [mux_2_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.LowerPartTest [lowerparttest_default]
+Compiling architecture behavioral of entity xil_defaultlib.LUT_16_7 [lut_16_7_default]
+Compiling architecture behavioral of entity xil_defaultlib.Instruction_Decoder [instruction_decoder_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_4 [mux_2_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.LUT_8_3 [lut_8_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.Reg [reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.Reg_Bank [reg_bank_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_8_4 [mux_8_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.Add_Sub_Unit [add_sub_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.UpperPartTest [upperparttest_default]
+Compiling architecture behavioral of entity xil_defaultlib.Processor [processor_default]
+Compiling architecture behavioral of entity xil_defaultlib.processor_sim
+Built simulation snapshot Processor_Sim_behav

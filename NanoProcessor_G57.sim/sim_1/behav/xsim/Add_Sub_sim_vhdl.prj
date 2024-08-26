@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/new/4_Bit_Add_Sub_Unit.vhd" \
+"../../../../project_1.srcs/sources_1/new/FA.vhd" \
+"../../../../project_1.srcs/sources_1/new/HA.vhd" \
+"../../../../project_1.srcs/sources_1/imports/new/RCA_4.vhd" \
+"../../../../project_1.srcs/sim_1/imports/new/Add_Sub_sim.vhd" \
+
+# Do not sort compile order
+nosort
